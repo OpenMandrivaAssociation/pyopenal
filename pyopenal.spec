@@ -13,7 +13,6 @@ Source0:	http://download.gna.org/pyopenal/%{oname}-%{version}.tar.bz2
 Group:		Development/Python
 Summary:	OpenAL port to Python
 BuildRequires:	python-devel openal-devel freealut-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 OpenAL port to Python.
