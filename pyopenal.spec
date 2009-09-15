@@ -1,7 +1,7 @@
 %define	name	pyopenal
 %define	oname	PyOpenAL
 %define version 0.1.6
-%define release 1
+%define release 2
 %{expand:%%define py_ver %(python -V 2>&1| awk '{print $2}'|cut -d. -f1-2)}
 
 Name:		%{name}
