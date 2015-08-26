@@ -1,2 +1,4 @@
+removed_sources:
+  PyOpenAL-0.1.6.tar.bz2: 28bbfaec6262a19e5cfbcdf9643138b99772c95a
 sources:
-  "PyOpenAL-0.1.6.tar.bz2": 28bbfaec6262a19e5cfbcdf9643138b99772c95a
+  PyOpenAL-0.1.6.tar.gz: 47f889628a70971faf387307ef4da339de885fb7
