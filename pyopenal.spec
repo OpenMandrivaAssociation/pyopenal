@@ -6,7 +6,7 @@ Name:		pyopenal
 Version:	0.1.6
 Release:	4
 License:	GPL
-Url:		http://home.gna.org/oomadness/en/pyopenal/
+Url:		https://home.gna.org/oomadness/en/pyopenal/
 Source0:	http://download.gna.org/pyopenal/%{oname}-%{version}.tar.gz
 Group:		Development/Python
 Summary:	OpenAL port to Python
